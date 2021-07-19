@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Weather</string>
+    <string-array name="city_name">
+        <item>Bengaluru, IN</item>
+    </string-array>
+
+    <integer-array name="city_ids">
+        <item>1277333</item>
+    </integer-array>
+
+</resources>
